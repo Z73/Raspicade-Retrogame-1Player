@@ -1,5 +1,5 @@
-Retrogame2PlayersB+
-===================
+Retrogame1PlayersB/B+
+=====================
 
 Raspberry Pi GPIO-to-USB utility for classic game emulators.
 
